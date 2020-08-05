@@ -1,4 +1,4 @@
-# HubardTBG
+# HubbardTBG
 
 
 This repositry contains the four-band and twelve-band Hubbard
